@@ -45,7 +45,7 @@
             "facter": {
 				"Role" : "Django",
 				"Profile" : "Base"
-				}
+				},
 			"manifest_file" : "./bakery_django_base/puppet/site.pp",
 			"module_paths" : [ "./bakery_django_base/puppet/files" ]
 			

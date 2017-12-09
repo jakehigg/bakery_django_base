@@ -40,12 +40,6 @@
     
   }],
     "provisioners": [
-        {
-		    "type": "shell",
-            "inline":[
-			"sudo chmod 777 /tmp"
-			]
-		},
 
 		{
             "type": "puppet-masterless",

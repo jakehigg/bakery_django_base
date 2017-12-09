@@ -43,7 +43,7 @@
         {
 		    "type": "shell",
             "inline":[
-			"sudo chmod -r 777 /tmp"
+			"sudo chmod 777 /tmp"
 			]
 		},
 

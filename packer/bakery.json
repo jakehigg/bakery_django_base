@@ -29,7 +29,7 @@
     "associate_public_ip_address": "true",
     "instance_type": "t2.micro",
     "ssh_username": "ubuntu",
-    "ami_name": "Ubuntu Tomcat Jenkins {{timestamp}}",
+    "ami_name": "Ubuntu Django Base {{timestamp}}",
     "tags": {
         "OS": "Linux",
         "Release": "Ubuntu16",

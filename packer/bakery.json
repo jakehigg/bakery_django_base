@@ -45,7 +45,7 @@
             "inline":[
 			"sudo chmod -r 777 /tmp"
 			]
-		}
+		},
 
 		{
             "type": "puppet-masterless",
